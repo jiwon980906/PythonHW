@@ -1,0 +1,1 @@
+print('Python'.lower().replace('on','ON').ljust(10))
